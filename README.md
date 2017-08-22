@@ -14,7 +14,7 @@ level of a farm
 Graphical Map
 
 Here is an example:
-M //
+M /n
 4
 1
 // farm 0
