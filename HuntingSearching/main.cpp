@@ -27,9 +27,7 @@ int main(int argc, char** argv)
 	
 	HuntingMap myMap(Map,input_Mode,farm_level,farm_size,command);
 
-	myMap.initMap(cin);
-
-	myMap.printMap(true);
+	myMap.run(cin);
 	
 	return 0;
 }
