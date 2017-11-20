@@ -1,0 +1,10 @@
+Quiver_Capacity: 10
+Random_Seed: 2049231
+Max_Rand_Distance: 50
+Max_Rand_Speed: 6000
+Max_Rand_Damage: 1500
+Player_Health: 10
+---
+Round: 1
+Random_Zombies: 0
+Named_Zombies: 0

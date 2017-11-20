@@ -1,0 +1,31 @@
+Quiver_Capacity: 100
+Random_Seed: 2049233
+Max_Rand_Distance: 1024
+Max_Rand_Speed: 200
+Max_Rand_Damage: 1
+Player_Health: 1000
+---
+Round: 3
+Random_Zombies: 0
+Named_Zombies: 3
+200 500 1 DarkLink1
+123 10 2 DarkLink2
+200 10 1 DarkLink3
+---
+Round: 4
+Random_Zombies: 0
+Named_Zombies: 3
+200 10 1 DarkLink4
+123 10 2 DarkLink5
+200 10 1 DarkLink6
+---
+Round: 5
+Random_Zombies: 0
+Named_Zombies: 3
+200 10 1 DarkLink7
+123 10 2 DarkLink8
+150 1 1 Puremath
+---
+Round: 13
+Random_Zombies: 1000
+Named_Zombies: 0

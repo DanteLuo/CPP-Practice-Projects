@@ -1,0 +1,23 @@
+Quiver_Capacity: 10
+Random_Seed: 2049231
+Max_Rand_Distance: 50
+Max_Rand_Speed: 60
+Max_Rand_Damage: 1
+Player_Health: 10
+---
+Round: 1
+Random_Zombies: 25
+Named_Zombies: 3
+150 300 15 FoxMcCloud
+2 3 6 FalcoLombardi
+100 1 100 SlippyToad
+---
+Round: 3
+Random_Zombies: 50
+Named_Zombies: 1
+20 10 20 DarkLink
+---
+Round: 100
+Random_Zombies: 0
+Named_Zombies: 0
+

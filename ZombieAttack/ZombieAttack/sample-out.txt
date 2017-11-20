@@ -1,0 +1,94 @@
+Round: 1
+Created: AI0 21
+Created: AI1 35
+Created: AI2 25
+Created: AI3 17
+Created: AI4 2
+Created: AI5 2
+Created: AI6 14
+Created: AI7 17
+Created: AI8 16
+Created: AI9 4
+Created: AI10 31
+Created: AI11 45
+Created: AI12 18
+Created: AI13 27
+Created: AI14 18
+Created: AI15 9
+Created: AI16 2
+Created: AI17 22
+Created: AI18 39
+Created: AI19 13
+Created: AI20 27
+Created: AI21 22
+Created: AI22 20
+Created: AI23 8
+Created: AI24 7
+Created: FoxMcCloud 150
+Created: FalcoLombardi 2
+Created: SlippyToad 100
+Round: 2
+Moved: AI1 5
+Moved: AI3 15
+Moved: AI4 0
+Moved: AI5 0
+Moved: AI6 0
+Moved: AI7 0
+Moved: AI8 0
+Moved: AI9 0
+Moved: AI11 38
+Moved: AI17 0
+Moved: AI18 16
+Moved: AI21 0
+Moved: AI22 15
+Moved: AI23 0
+Moved: AI24 6
+Moved: FoxMcCloud 0
+Moved: FalcoLombardi 0
+Moved: SlippyToad 99
+DEFEAT IN ROUND 2! FoxMcCloud ate your brains!
+Zombies still active: 18
+First zombies killed:
+AI0 1
+AI10 2
+AI12 3
+AI13 4
+AI14 5
+AI15 6
+AI16 7
+AI19 8
+AI2 9
+AI20 10
+Last zombies killed:
+AI20 10
+AI2 9
+AI19 8
+AI16 7
+AI15 6
+AI14 5
+AI13 4
+AI12 3
+AI10 2
+AI0 1
+Most active zombies:
+AI1 2
+AI11 2
+AI17 2
+AI18 2
+AI21 2
+AI22 2
+AI23 2
+AI24 2
+AI3 2
+AI4 2
+Least active zombies:
+AI0 1
+AI10 1
+AI12 1
+AI13 1
+AI14 1
+AI15 1
+AI16 1
+AI19 1
+AI2 1
+AI20 1

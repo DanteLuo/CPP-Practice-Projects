@@ -12,6 +12,7 @@ using namespace std;
 command_opt getCommandLineOption(int argc, char** argv)
 {
 	int isDuplicate = 0;
+	bool OutputValidation = false;
 	command_opt command;
 
 	static struct option long_options[]
@@ -42,7 +43,7 @@ command_opt getCommandLineOption(int argc, char** argv)
 		    	break;
 		    case 'o':
 		    	command.outputMode = *optarg;
-		    	cout<<command.outputMode<<"\n";
+		    	// if (command.outputMode == "M" || command.outputMode == "L"){OutputValidation = true;}
 		    	break;
 		    case 'h':
 		    	print_help_msg();
@@ -57,6 +58,12 @@ command_opt getCommandLineOption(int argc, char** argv)
 		cerr<<"Please select at least and only one method from queue or stack." <<endl;
 		exit(1);
 	}
+
+	// if (!OutputValidation)
+	// {
+	// 	cerr<<"Please select correct ouput mode M for Map and L for coordinates output." <<endl;
+	// 	exit(1);
+	// }
 
 	return command;
 }
