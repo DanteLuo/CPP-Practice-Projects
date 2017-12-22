@@ -62,3 +62,9 @@ You should prepare the map and select correct options. Here is an excution examp
     
     #...
 3. The results will be shown!
+
+# Stock Market
+This is a simple simulation that imitates how stock market works. Further details need to be added.
+
+# Zombie Attack
+Further details need to be added.
