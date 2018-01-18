@@ -26,7 +26,7 @@ permute_rec (vector<int>nums, vector<vector<int>>& results, int start,
 	{
 	  swap (nums[i], nums[start]);
 	  permute_rec (nums, results, start + 1, end);
-// 	  swap (nums[i], nums[start]);
+ 	  swap (nums[i], nums[start]);
 	}
     }
 }
