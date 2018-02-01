@@ -1,15 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <stdio.h>
+#include "utils.h"
 using namespace std;
 
-void
-print_vec (vector<int>nums)
-{
-  for (int i = 0; i < nums.size (); i++)
-    cout << nums[i];
-  cout << endl;
-}
 
 void
 permute_rec (vector<int>nums, vector<vector<int>>& results, int start,
@@ -26,7 +20,7 @@ permute_rec (vector<int>nums, vector<vector<int>>& results, int start,
 	{
 	  swap (nums[i], nums[start]);
 	  permute_rec (nums, results, start + 1, end);
- 	  swap (nums[i], nums[start]);
+// 	  swap (nums[i], nums[start]);
 	}
     }
 }
