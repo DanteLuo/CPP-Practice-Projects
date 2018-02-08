@@ -4,13 +4,16 @@
 #include "JumpGame.h"
 #include "mySqrt.h"
 #include "ThreeSum.h"
+#include "UniqueBinarySearchTree.h"
+#include "DecodeWays.h"
+#include "ClimbingStairs.h"
 
 using namespace std;
 
 int
 main ()
 {
-  main_three_sum();
+  main_climbingStaris();
   return 0;
 }
 
